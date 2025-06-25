@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+}
+#fnameError,#lnameError,#passwordError,#emailError{
+    display: none;
+}
+h2{
+    margin-top: 5%;
+    text-align: center;
+    color: antiquewhite;
+}
+form{
+    text-align: center;
+}
+#btn{
+    height: 30px;
+    width: 100px;
+    border-color: blue;
+    border-radius: 10px;
+}
+#fname{
+    height: 25px;
+    width: 200px;
+    border-color: azure;
+    border-radius: 10px;
+}
+#lname{
+    height: 25px;
+    width: 200px;
+    border-color: azure;
+    border-radius: 10px;
+}
+#email{
+    height: 25px;
+    width: 200px;
+    border-color: azure;
+    border-radius: 10px;
+}
+#password{
+    height: 25px;
+    width: 200px;
+    border-color: azure;
+    border-radius: 10px;
+}
+

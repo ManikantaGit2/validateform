@@ -1,0 +1,32 @@
+{
+  "Details": [
+    {
+      "id": "1",
+      "firstname": "oiuytre",
+      "lastName": "iuytr",
+      "Email": "iuytre",
+      "password": "98765432"
+    },
+    {
+      "id": "3",
+      "firstname": "mani",
+      "lastName": "kanta",
+      "Email": "mk@gmail.com",
+      "password": "98765t7667ytrt"
+    },
+    {
+      "id": "4",
+      "firstname": "Sp",
+      "lastName": "pi",
+      "Email": "s@gmail.com",
+      "password": "1234567892j"
+    },
+    {
+      "id": "2",
+      "firstname": "Manikanta",
+      "lastName": "Pillimetla",
+      "Email": "pillimetlamanikanta@gmail.com",
+      "password": "M1234455"
+    }
+  ]
+}
