@@ -23,25 +23,25 @@ form{
 #fname{
     height: 25px;
     width: 200px;
-    border-color: azure;
+   
     border-radius: 10px;
 }
 #lname{
     height: 25px;
     width: 200px;
-    border-color: azure;
+   
     border-radius: 10px;
 }
 #email{
     height: 25px;
     width: 200px;
-    border-color: azure;
+   
     border-radius: 10px;
 }
 #password{
     height: 25px;
     width: 200px;
-    border-color: azure;
+   
     border-radius: 10px;
 }
 
